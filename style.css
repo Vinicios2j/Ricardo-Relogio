@@ -544,15 +544,15 @@ header.scrolled {
 
 /* Fotos de fundo específicas para cada card (pode trocar pelos links das fotos reais depois) */
 .about-card-1 {
-    background: url('assets/Card1.png');
+    background: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/Card1.png');
 }
 
 .about-card-2 {
-    background: url('assets/Card2.png');
+    background: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/Card2.png');
 }
 
 .about-card-3 {
-    background: url('assets/Card3.png');
+    background: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/Card3.png');
 }
 
 .card-number,
@@ -629,7 +629,7 @@ header.scrolled {
     position: absolute;
     inset: 0;
     background: linear-gradient(90deg, rgba(0,0,0,.9), rgba(0,0,0,.45), rgba(0,0,0,.9)),
-                url("assets/banner.png");
+                url("https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/banner.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -675,31 +675,31 @@ header.scrolled {
 }
 
 #teste {
-    background-image: url(assets/cd1manunt.png);
+    background-image: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/cd1manunt.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 #teste2 {
-    background-image: url(assets/cd2rep.png);
+    background-image: url(https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/cd2rep.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 #teste3 {
-    background-image: url(assets/cd3bat.png);
+    background-image: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/cd3bat.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 #teste4 {
-    background-image: url(assets/cd4ajus.png);
+    background-image: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/cd4ajus.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 #teste5 {
-    background-image: url(assets/cd5poli.png);
+    background-image: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/cd5poli.png');
     background-size: contain;
     background-repeat: no-repeat; 
 }
@@ -805,25 +805,25 @@ header.scrolled {
 
 /* Simulação de imagens reais de alta qualidade com gradientes e texturas de relógios/bancada */
 .showcase-img-1 {
-    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('assets/revisão.png');
+    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/revis%C3%A3o.png');
     background-size: cover;
     background-position: center;
 }
 
 .showcase-img-2 {
-    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('assets/acabamento.png');
+    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/acabamento.png');
     background-size: cover;
     background-position: center;
 }
 
 .showcase-img-3 {
-    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('assets/ferras.png');
+    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/ferras.png');
     background-size: cover;
     background-position: center;
 }
 
 .showcase-img-4 {
-    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('assets/ulti.png');
+    background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.8)), url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/ulti.png');
     background-size: cover;
     background-position: center;
 }
@@ -920,7 +920,7 @@ header.scrolled {
 }
 
 #banner2 {
-    background-image: url(assets/banner2.png);
+    background-image: url('https://media.githubusercontent.com/media/Vinicios2j/Ricardo-Relogio/main/assets/banner2.png');
     background-size: cover;
 }
 
